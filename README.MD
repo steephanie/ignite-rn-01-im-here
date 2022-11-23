@@ -9,9 +9,9 @@
 </br>
 
 <div>
-    <img src="./assets/home.png" width="250" height="530">
-    <img src="./assets/nome-lista.png" width="250" height="530">
-    <img src="./assets/del-nome-lista.png" width="250" height="530">
+    <img src="./image/home.png" width="250" height="530">
+    <img src="./image/nome-lista.png" width="250" height="530">
+    <img src="./image/del-nome-lista.png" width="250" height="530">
 </div>
 
 </br>
